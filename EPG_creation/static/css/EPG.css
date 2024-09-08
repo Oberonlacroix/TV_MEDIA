@@ -1,0 +1,13 @@
+.form {
+    border-collapse: collapse;
+    border-radius: 5px 5px 0 0;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 500px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.form .form-control {
+    
+}
